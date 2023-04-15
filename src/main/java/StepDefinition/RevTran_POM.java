@@ -58,6 +58,7 @@ public class RevTran_POM  {
 		driver=new ChromeDriver(co);
 		driver.manage().window().maximize();
 		driver.get(url);
+		Thread.sleep(10000);
 
 	}
 
