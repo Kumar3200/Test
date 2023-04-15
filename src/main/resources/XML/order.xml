@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tXML>
+	<Header>
+		<Source>Host</Source>
+		<Action_Type>Update</Action_Type>
+		<Reference_ID>HJYKW0.101!040423!35131764</Reference_ID>
+		<Message_Type>DistributionOrder</Message_Type>
+		<Company_ID>1</Company_ID>
+	</Header>
+	<Message>
+		<DistributionOrder>
+			<DistributionOrderId>HJYKW0.101</DistributionOrderId>
+			<OrderType>AOG</OrderType>
+			<OrderedDttm>04/04/2023 00:00</OrderedDttm>
+			<DoFulfillmentStatus>Released</DoFulfillmentStatus>
+			<IsCancelled>false</IsCancelled>
+			<MonetaryValueCurrencyCode>USD</MonetaryValueCurrencyCode>
+			<BillingMethodCode>4</BillingMethodCode>
+			<MustReleaseByDttm>04/04/2023 00:00</MustReleaseByDttm>
+			<IsHazmat>false</IsHazmat>
+			<Priority/>
+			<ReferenceField1>
+				<![CDATA[NET 45]]></ReferenceField1>
+			<ReferenceField2>
+				<![CDATA[]]></ReferenceField2>
+			<ReferenceField3>
+				<![CDATA[NDOM]]></ReferenceField3>
+			<ReferenceField4>
+				<![CDATA[FLN]]></ReferenceField4>
+			<ReferenceField5>
+				<![CDATA[]]></ReferenceField5>
+			<ReferenceField6>
+				<![CDATA[NLR                      ]]></ReferenceField6>
+			<ReferenceField7>
+				<![CDATA[HJYKW0]]></ReferenceField7>
+			<ReferenceField8>
+				<![CDATA[FCA-SELLER'S WHSE]]></ReferenceField8>
+			<ReferenceField9>
+				<![CDATA[KKMS9K]]></ReferenceField9>
+			<ReferenceField10>
+				<![CDATA[PICK-UP]]></ReferenceField10>
+			<ReferenceField11>0</ReferenceField11>
+			<ReferenceField12/>
+			<ReferenceField13/>
+			<ReferenceField14/>
+			<ReferenceField15/>
+			<ReferenceField16/>
+			<ReferenceField17>NONDG</ReferenceField17>
+			<ReferenceField18>CONS</ReferenceField18>
+			<ReferenceField19/>
+			<ReferenceField20/>
+			<ReferenceField21/>
+			<ReferenceField22/>
+			<ReferenceField23/>
+			<ReferenceField24/>
+			<ReferenceField25/>
+			<ReferenceNumberField1>1</ReferenceNumberField1>
+			<ReferenceNumberField2/>
+			<ReferenceNumberField3/>
+			<ReferenceNumberField4/>
+			<ReferenceNumberField5>0.00</ReferenceNumberField5>
+			<IncotermName>FCA</IncotermName>
+			<ExternalSystemPurchaseOrderNbr>
+				<![CDATA[5353]]></ExternalSystemPurchaseOrderNbr>
+			<SalesOrderNbr>HJYKW0</SalesOrderNbr>
+			<CustomerName>
+				<![CDATA[AMERICAN AIRLINES INC]]></CustomerName>
+			<OriginFacilityAliasId>MIW</OriginFacilityAliasId>
+			<OriginFacilityName>
+				<![CDATA[Boeing Distribution Services Inc]]></OriginFacilityName>
+			<OriginAddressLine1>
+				<![CDATA[3760 W. 108TH ST DOOR B]]></OriginAddressLine1>
+			<OriginAddressLine2>
+				<![CDATA[]]></OriginAddressLine2>
+			<OriginAddressLine3>
+				<![CDATA[305-925-2600]]></OriginAddressLine3>
+			<OriginCity>
+				<![CDATA[MIAMI_]]></OriginCity>
+			<OriginCountry>
+				<![CDATA[US]]></OriginCountry>
+			<OriginStateOrProvince>
+				<![CDATA[FL]]></OriginStateOrProvince>
+			<OriginPostalCode>33018</OriginPostalCode>
+			<PickupStartDttm>02/13/2023 00:00</PickupStartDttm>
+			<PickupEndDttm>04/01/2033 00:00</PickupEndDttm>
+			<DestinationAddressLine1>
+				<![CDATA[TOUHY & MT PROSPECT RDS]]></DestinationAddressLine1>
+			<DestinationAddressLine2>
+				<![CDATA[O HARE INTL AIRPORT]]></DestinationAddressLine2>
+			<DestinationCity>
+				<![CDATA[CHICAGO]]></DestinationCity>
+			<DestinationCountry>US</DestinationCountry>
+			<DestinationStateOrProvince>
+				<![CDATA[IL]]></DestinationStateOrProvince>
+			<DestinationPostalCode>60666</DestinationPostalCode>
+			<DeliveryStartDttm>04/03/2023 00:00</DeliveryStartDttm>
+			<DeliveryEndDttm>04/04/2023 00:00</DeliveryEndDttm>
+			<DestinationContactName>
+				<![CDATA[STORES RECEIVING]]></DestinationContactName>
+			<DestinationContactTelephoneNbr>972-357-3410</DestinationContactTelephoneNbr>
+			<DestinationContactEmailAddress>
+				<![CDATA[art.guerra@aa.com]]></DestinationContactEmailAddress>
+			<LpnCubingIndicator>61</LpnCubingIndicator>
+			<BillingAccountNbr>N/A</BillingAccountNbr>
+			<DutyAndTaxPaymentType/>
+			<DutyAndTaxAccountNbr/>
+			<BillToName>
+				<![CDATA[AMERICAN AIRLINES INC]]></BillToName>
+			<BillToTitle>
+				<![CDATA[ACCOUNTS PAYABLE]]></BillToTitle>
+			<BillToAddressLine1>
+				<![CDATA[PO BOX 582870]]></BillToAddressLine1>
+			<BillToAddressLine2>
+				<![CDATA[]]></BillToAddressLine2>
+			<BillToAddressLine3>
+				<![CDATA[]]></BillToAddressLine3>
+			<BillToCity>
+				<![CDATA[TULSA]]></BillToCity>
+			<BillToCountryCode>US</BillToCountryCode>
+			<BillToStateOrProv>
+				<![CDATA[OK]]></BillToStateOrProv>
+			<BillToPostalCode>74158-2870</BillToPostalCode>
+			<BillToEmailAddress>
+				<![CDATA[art.guerra@aa.com]]></BillToEmailAddress>
+			<BillToFaxNbr>918-254-3373</BillToFaxNbr>
+			<BillToTelephoneNbr>972-357-3410</BillToTelephoneNbr>
+			<MarkFor>AMERICANAIRLINESINCSTORESRECEIVINGATTNSTORESRECEIVINGTOUHYMTPROSPECTRDSOHAREINTLAIRPORTCHICAGOIL6066</MarkFor>
+			<ARAcctNbr>001020</ARAcctNbr>
+			<SchedDlvryEndDate>04/04/2023 00:00</SchedDlvryEndDate>
+			<DistributionOrderType>Customer Order</DistributionOrderType>
+			<DsgShipVia>124</DsgShipVia>
+			<AllowPreBilling>false</AllowPreBilling>
+			<LpnLabelType>K02</LpnLabelType>
+			<ContentLabelType>K08</ContentLabelType>
+			<ArticleLabelType/>
+			<PackingSlipType/>
+			<NbrOfPackingSlipsToPrint/>
+			<SplInstrCode1/>
+			<SplInstrCode2>L1</SplInstrCode2>
+			<SplInstrCode3/>
+			<SplInstrCode4>G2</SplInstrCode4>
+			<SplInstrCode5>P1</SplInstrCode5>
+			<SplInstrCode6>I0</SplInstrCode6>
+			<SplInstrCode7>F0</SplInstrCode7>
+			<SplInstrCode9>N</SplInstrCode9>
+			<SplInstrCode10/>
+			<ImporterOfRecordNumber/>
+			<ProcessInfo>
+				<RefTextField1>Y</RefTextField1>
+				<RefTextField2>Y</RefTextField2>
+				<RefTextField3>Y</RefTextField3>
+				<RefTextField4>Y</RefTextField4>
+				<RefTextField5>Y</RefTextField5>
+				<RefTextField6>Y</RefTextField6>
+				<RefTextField7>Y</RefTextField7>
+				<RefTextField8>06</RefTextField8>
+				<RefTextField9>0</RefTextField9>
+				<RefTextField10/>
+				<RefNumberField1/>
+				<RefNumberField2/>
+				<RefNumberField3/>
+				<RefNumberField4/>
+				<RefNumberField5/>
+			</ProcessInfo>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[WH 329, 407, 409 SHIP FEDEX INT PRIORITY]]></CommentText>
+			</Comment>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[OVER WEIGHT OR SIZE CONTACT AA AT]]></CommentText>
+			</Comment>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[Transportation@aa.com]]></CommentText>
+			</Comment>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[FURTHER DETAILS AT THIS WEBSITE:]]></CommentText>
+			</Comment>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[https://me.aa.com/fp/transport/Supplier%]]></CommentText>
+			</Comment>
+			<Comment>
+				<NoteType>CO</NoteType>
+				<NoteCode>ON</NoteCode>
+				<CommentText>
+					<![CDATA[20Shipping%20Guidelines.pdf]]></CommentText>
+			</Comment>
+			<CustomFieldList>
+				<CustomField>
+					<Name>UltDestName</Name>
+					<Value>
+						<![CDATA[AMERICAN AIRLINES INC]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestAddressLine1</Name>
+					<Value>
+						<![CDATA[TOUHY & MT PROSPECT RDS]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestAddressLine2</Name>
+					<Value>
+						<![CDATA[O HARE INTL AIRPORT]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestCompanyName</Name>
+					<Value>
+						<![CDATA[AMERICAN AIRLINES INC]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestCity</Name>
+					<Value>
+						<![CDATA[CHICAGO]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestStateOrProvince</Name>
+					<Value>
+						<![CDATA[IL]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestCountry</Name>
+					<Value>
+						<![CDATA[US]]></Value>
+				</CustomField>
+				<CustomField>
+					<Name>UltDestPostalCode</Name>
+					<Value>
+						<![CDATA[60666]]></Value>
+				</CustomField>
+			</CustomFieldList>
+			<LineItem>
+				<DoLineNbr>101</DoLineNbr>
+				<ItemName>AN3-10</ItemName>
+				<DoLineStatus>Released</DoLineStatus>
+				<IsCancelled>false</IsCancelled>
+				<CustomerItemNbr>AN3-10</CustomerItemNbr>
+				<TotalMonetaryValue>15.00</TotalMonetaryValue>
+				<MonetaryValueCurrencyCode>USD</MonetaryValueCurrencyCode>
+				<PickupEndDttm/>
+				<PickupReferenceNbr/>
+				<DeliveryReferenceNbr/>
+				<ReferenceField1>
+					<![CDATA[5]]></ReferenceField1>
+				<ReferenceField2>
+					<![CDATA[3]]></ReferenceField2>
+				<ReferenceField3>
+					<![CDATA[]]></ReferenceField3>
+				<ReferenceField4>
+					<![CDATA[]]></ReferenceField4>
+				<ReferenceField5>
+					<![CDATA[]]></ReferenceField5>
+				<ReferenceField6>
+					<![CDATA[]]></ReferenceField6>
+				<ReferenceField7>
+					<![CDATA[DOMESTIC]]></ReferenceField7>
+				<ReferenceField8>
+					<![CDATA[]]></ReferenceField8>
+				<ReferenceField9>
+					<![CDATA[]]></ReferenceField9>
+				<ReferenceField10>K0BFTW_022,K0BFTW_021</ReferenceField10>
+				<ReferenceNumberField1>100</ReferenceNumberField1>
+				<ReferenceNumberField2/>
+				<ReferenceNumberField3>0</ReferenceNumberField3>
+				<ReferenceNumberField4>0</ReferenceNumberField4>
+				<ReferenceNumberField5/>
+				<ReferenceBoolean1>true</ReferenceBoolean1>
+				<ReferenceBoolean2>true</ReferenceBoolean2>
+				<ReferenceSysCode1/>
+				<ReferenceSysCode2/>
+				<IsHazmat>false</IsHazmat>
+				<DangerousGoodsCode/>
+				<SerialNbrRequiredIndicator/>
+				<WaveAllocationType>EA</WaveAllocationType>
+				<WaveProcessingType>500</WaveProcessingType>
+				<VasProcessType>0</VasProcessType>
+				<AssortmentNbr>
+					<![CDATA[]]></AssortmentNbr>
+				<LpnBreakAttribute/>
+				<Price>15.0000</Price>
+				<StoreDepartment/>
+				<POSeq>3</POSeq>
+				<ShelfDays/>
+				<ManufacturingDttm>04/04/2023 00:00</ManufacturingDttm>
+				<BatchRequirementType/>
+				<FulfillmentType>1</FulfillmentType>
+				<Quantity>
+					<OrderQty>1</OrderQty>
+					<QtyUOM>EA</QtyUOM>
+				</Quantity>
+				<CustomFieldList>
+					<CustomField>
+						<Name>KLXSkuRefNbrSet1</Name>
+						<Value>K0BFTW_022</Value>
+					</CustomField>
+					<CustomField>
+						<Name>KLXSkuRefNbrSet2</Name>
+						<Value>K0BFTW_021</Value>
+					</CustomField>
+					<CustomField>
+						<Name>LicenseType</Name>
+						<Value>C33</Value>
+					</CustomField>
+				</CustomFieldList>
+				<LineProcessInfo>
+					<LineRefTextField1>
+						<![CDATA[                         ]]></LineRefTextField1>
+					<LineRefTextField2>
+						<![CDATA[                         ]]></LineRefTextField2>
+					<LineRefTextField3>
+						<![CDATA[                         ]]></LineRefTextField3>
+					<LineRefTextField4>
+						<![CDATA[                         ]]></LineRefTextField4>
+					<LineRefTextField5>
+						<![CDATA[                         ]]></LineRefTextField5>
+					<LineRefTextField6>
+						<![CDATA[                         ]]></LineRefTextField6>
+					<LineRefTextField7>
+						<![CDATA[                         ]]></LineRefTextField7>
+					<LineRefTextField8>
+						<![CDATA[                         ]]></LineRefTextField8>
+					<LineRefTextField9>
+						<![CDATA[                         ]]></LineRefTextField9>
+					<LineRefTextField10>
+						<![CDATA[]]></LineRefTextField10>
+					<LineRefNumberField3>
+						<![CDATA[]]></LineRefNumberField3>
+				</LineProcessInfo>
+				<InventoryAttributes>
+					<InventoryType/>
+					<BatchNbr>*</BatchNbr>
+					<ItemAttribute2>*</ItemAttribute2>
+				</InventoryAttributes>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[Based on information provided by the respective manufacturer(s) this]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[product contains a Substance of Very High Concern (SVHC), chromium]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[(VI) trioxide, CAS 1333-82-0, as listed on the candidate list, REACh]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[(EC) 1907/2006 (in a concentration above 0,1 % w/w).]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[Based on information provided by the respective manufacturer(s) this]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[product contains a Substance of Very High Concern (SVHC), Cadmium,]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[CAS 7440-43-9, as listed on the candidate list, REACh (EC) 1907/2006]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>TP</NoteCode>
+					<CommentText>
+						<![CDATA[(in a concentration above 0,1 % w/w).]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CONTACT NAME: TEST TEST]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CONTACT EMAIL: senthil.venugopalan@boeingdistribution.com]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CONTACT PHONE: 4564758]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CARRIER NAME: Carrier1]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CARRIER EMAIL: senthil.venugopalan@boeingdistribution.com]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[CARRIER PHONE: 1234]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>CN</NoteCode>
+					<CommentText>
+						<![CDATA[JOB NUMBER: 35fdf]]></CommentText>
+				</Comment>
+				<Comment>
+					<NoteType>CO</NoteType>
+					<NoteCode>M</NoteCode>
+					<CommentText>
+						<![CDATA[AOG/EXPEDITE FREIGHT CHARGE]]></CommentText>
+				</Comment>
+				<ClassificationCodes>
+					<ClassificationCode>
+						<Type/>
+						<Code/>
+					</ClassificationCode>
+				</ClassificationCodes>
+			</LineItem>
+		</DistributionOrder>
+	</Message>
+</tXML>

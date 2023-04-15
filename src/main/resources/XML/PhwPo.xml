@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tXML>
+	<Header>
+		<Source>Host</Source>
+		<Action_Type>Update</Action_Type>
+		<Reference_ID>00100RKF02!021623!03436538</Reference_ID>
+		<Message_Type>PurchaseOrder</Message_Type>
+		<Company_ID>1</Company_ID>
+	</Header>
+	<Message>
+		<Order>
+			<PurchaseOrderType>PO</PurchaseOrderType>
+			<OrderId>AUTORKG10</OrderId>
+			<ExtPurchaseOrderId>VPO</ExtPurchaseOrderId>
+			<IsCancelled>false</IsCancelled>
+			<IsClosed>false</IsClosed>
+			<DestinationFacilityAliasId>PHW</DestinationFacilityAliasId>
+			<BusinessPartnerCode>V6564</BusinessPartnerCode>
+			<OrderStatus/>
+			<QualChkHoldUponRcpt>Y</QualChkHoldUponRcpt>
+			<ReferenceField1>161</ReferenceField1>
+			<LineItem>
+				<LineItemId>1</LineItemId>
+				<ItemName>2356928-1</ItemName>
+				<IsCancelled>false</IsCancelled>
+				<IsClosed>false</IsClosed>
+				<UnNumber/>
+				<IsHazmat>false</IsHazmat>
+				<ExtSysLineItemId/>
+				<DeliveryStart>08/05/2022 00:00</DeliveryStart>
+				<CustomerItemNbr/>
+				<ReferenceField1>161</ReferenceField1>
+				<ReferenceField2>RED</ReferenceField2>
+				<ReferenceField3>IH01</ReferenceField3>
+				<ReferenceField4>
+					<![CDATA[SEE NOTES RE: WEIGHT]]></ReferenceField4>
+				<ReferenceField5>N</ReferenceField5>
+				<Quantity>
+					<OrderQty>10</OrderQty>
+					<QtyUOM>EA</QtyUOM>
+				</Quantity>
+				<CustomFieldList>
+					<CustomField>
+						<Name>POPriorityCode</Name>
+						<Value>RED</Value>
+					</CustomField>
+				</CustomFieldList>
+				<InventoryAttributes>
+					<InventoryType/>
+					<ItemAttribute1/>
+					<ItemAttribute2/>
+				</InventoryAttributes>
+			</LineItem>
+		</Order>
+	</Message>
+</tXML>

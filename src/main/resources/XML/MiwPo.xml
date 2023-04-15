@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tXML>
+	<Header>
+		<Source>Host</Source>
+		<Action_Type>Update</Action_Type>
+		<Reference_ID>00100TN380!032523!03639202</Reference_ID>
+		<Message_Type>PurchaseOrder</Message_Type>
+		<Company_ID>1</Company_ID>
+	</Header>
+	<Message>
+		<Order>
+			<PurchaseOrderType>PO</PurchaseOrderType>
+			<OrderId>00TN382</OrderId>
+			<ExtPurchaseOrderId>VPO</ExtPurchaseOrderId>
+			<IsCancelled>false</IsCancelled>
+			<IsClosed>false</IsClosed>
+			<DestinationFacilityAliasId>MIW</DestinationFacilityAliasId>
+			<BusinessPartnerCode>W0193</BusinessPartnerCode>
+			<OrderStatus/>
+			<QualChkHoldUponRcpt>Y</QualChkHoldUponRcpt>
+			<ReferenceField1>510</ReferenceField1>
+			<LineItem>
+				<LineItemId>1</LineItemId>
+				<ItemName>MS21266-5N</ItemName>
+				<IsCancelled>false</IsCancelled>
+				<IsClosed>false</IsClosed>
+				<UnNumber/>
+				<IsHazmat>false</IsHazmat>
+				<ExtSysLineItemId/>
+				<DeliveryStart>06/23/2023 00:00</DeliveryStart>
+				<CustomerItemNbr/>
+				<ReferenceField1>510</ReferenceField1>
+				<ReferenceField2>GREEN</ReferenceField2>
+				<ReferenceField3>BOEING</ReferenceField3>
+				<ReferenceField4>
+					<![CDATA[SEE NOTES RE: WEIGHT]]></ReferenceField4>
+				<ReferenceField5>N</ReferenceField5>
+				<Quantity>
+					<OrderQty>15</OrderQty>
+					<QtyUOM>EA</QtyUOM>
+				</Quantity>
+				<CustomFieldList>
+					<CustomField>
+						<Name>POPriorityCode</Name>
+						<Value>GREEN</Value>
+					</CustomField>
+				</CustomFieldList>
+				<InventoryAttributes>
+					<InventoryType/>
+					<ItemAttribute1/>
+					<ItemAttribute2/>
+				</InventoryAttributes>
+			</LineItem>
+		</Order>
+	</Message>
+</tXML>

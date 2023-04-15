@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><tXML>
+	<Header>
+		<Source>Host</Source>
+		<Action_Type>Update</Action_Type>
+		<Reference_ID>0018R2058!032523!03638037</Reference_ID>
+		<Message_Type>PurchaseOrder</Message_Type>
+		<Company_ID>28</Company_ID>
+	</Header>
+	<Message>
+		<Order>
+			<PurchaseOrderType>PO</PurchaseOrderType>
+			<OrderId>AUTO8R2070</OrderId>
+			<ExtPurchaseOrderId>VPO</ExtPurchaseOrderId>
+			<IsCancelled>false</IsCancelled>
+			<IsClosed>false</IsClosed>
+			<DestinationFacilityAliasId>COP</DestinationFacilityAliasId>
+			<BusinessPartnerCode>W0503</BusinessPartnerCode>
+			<OrderStatus/>
+			<QualChkHoldUponRcpt>Y</QualChkHoldUponRcpt>
+			<ReferenceField1>451</ReferenceField1>
+			<LineItem>
+				<LineItemId>1</LineItemId>
+				<ItemName>L0CTITE-242-50ML</ItemName>
+				<IsCancelled>false</IsCancelled>
+				<IsClosed>false</IsClosed>
+				<UnNumber/>
+				<IsHazmat>false</IsHazmat>
+				<ExtSysLineItemId/>
+				<DeliveryStart>03/27/2023 00:00</DeliveryStart>
+				<CustomerItemNbr/>
+				<ReferenceField1>451</ReferenceField1>
+				<ReferenceField2>ORANGE</ReferenceField2>
+				<ReferenceField3>I001</ReferenceField3>
+				<ReferenceField4>
+					<![CDATA[SEE NOTES RE: WEIGHT]]></ReferenceField4>
+				<ReferenceField5>N</ReferenceField5>
+				<Quantity>
+					<OrderQty>7</OrderQty>
+					<QtyUOM>EA</QtyUOM>
+				</Quantity>
+				<CustomFieldList>
+					<CustomField>
+						<Name>POPriorityCode</Name>
+						<Value>ORANGE</Value>
+					</CustomField>
+				</CustomFieldList>
+				<InventoryAttributes>
+					<InventoryType/>
+					<ItemAttribute1/>
+					<ItemAttribute2/>
+				</InventoryAttributes>
+			</LineItem>
+		</Order>
+	</Message>
+</tXML>
